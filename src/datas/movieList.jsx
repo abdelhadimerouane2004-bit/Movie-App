@@ -1,0 +1,77 @@
+
+export const movieList = [
+  {
+    id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZ-w8JnPFhBGBnvy6icZKf0Iw8f31AKxRbR9SV38U6Q&s=10",
+    name: "Inception",
+    category: "Science Fiction",
+    rating: 5,
+    topMovie: true,
+  },
+
+  {
+    id: 2,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy9BTOCmydK9gBeuA-7TZ-AD-_DjK5luzVWe38CGPDNA&s=10",
+    name: "Interstellar",
+    category: "Science Fiction",
+    rating: 5,
+  },
+  {
+    id: 3,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRumK5tCCbZnDE0zJMjVWOIug3NRjZD77ahQPk7bKyDcg&s=10",
+    name: "The Matrix",
+    category: "Science Fiction",
+    rating: 4,
+  },
+  {
+    id: 4,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMl-imwFewboNzW76wcrCJ569ydwHPA_s_K_HxmdcoA&s=10",
+    name: "John Wick",
+    category: "Action",
+    rating: 5,
+  },
+  {
+    id: 5,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSAFjx8zLje4xVVG_uaTCzU6IsWiMN1TPUmsNbfn6liw&s=10",
+    name: "The Dark Knight",
+    category: "Action",
+    rating: 5,
+    topMovie: true,
+  },
+  {
+    id: 6,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB5MZzpTGhw2fyNCpzjeS0noExEwMjj5_fKOSLNqA43w&s=10",
+    name: "Mission Impossible",
+    category: "Action",
+    rating: 4,
+  },
+  {
+    id: 7,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTknw8YnKRYPuVzmVlVpUL9u-qdli_xCK8cd-HLlAh1wg&s=10",
+    name: "Fast & Furious",
+    category: "Action",
+    rating: 3,
+  },
+  {
+    id: 8,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbwyQnvwNEFXjVXcKGPaNvzzNCXCuFjxst73vnaKCq9Q&s=10",
+    name: "Mr Bean",
+    category: "Comédie",
+    rating: 4,
+  },
+  {
+    id: 9,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc_RJpqjVrvBWD22oMxy_fwnqZETUvcH19Fbp7e5M12A&s=10",
+    name: "Home Alone",
+    category: "Comédie",
+    rating: 5,
+  },
+  {
+    id: 10,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpTx2KysHsiuFFk7NRf-I7h2osKSoQ5ZD-JgvyPa3jAw&s=10",
+    name: "Inception",
+    category: "Science Fiction",
+    rating: 5,
+    topMovie: true,
+  },
+];
